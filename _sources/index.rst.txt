@@ -1,0 +1,9 @@
+.. GuestMe documentation master file
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Настройки
+
+   settings-autobooking
+   settings-widgets
+
